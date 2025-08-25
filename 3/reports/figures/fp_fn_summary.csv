@@ -1,0 +1,4 @@
+model,TP,FP,FN,TN
+MultinomialNB,84,3,1,91
+LinearSVC,83,1,2,93
+XGBoost,82,7,3,87
